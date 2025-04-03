@@ -33,6 +33,3 @@ pip install nltk
 - Integration with voice recognition for better accessibility.
 - AI-driven conversation flow for more meaningful interactions.
 - Web or mobile app version for broader usability.
-
-## License
-This project is open-source and available under the MIT License.
